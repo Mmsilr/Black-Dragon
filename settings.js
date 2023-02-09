@@ -21,16 +21,16 @@ global.socialm = "GitHub: nimaofficial" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94768535137" //ur number
-global.premium = ['94768535137'] //ur premium number
+global.ownernomer = "94701443395" //ur number
+global.premium = ['94769831916'] //ur premium number
 global.botname = 'BLACK DRAGON' //ur bot name
 global.linkz = "https://chat.whatsapp.com/GmPFnz6fw8L7e2MdGqMsYh" //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/Dinuwa-LK' //script link
-global.themeemoji = "😼" //ur theme emoji
-global.packname = "DINUWA LK" //ur sticker watermark packname
-global.author = "DINUWA LK" //ur sticker watermark author
-global.wm = "© 𝗗𝗜𝗡𝗨𝗪𝗔 𝗟𝗞 " //ur watermark
+global.themeemoji = "🔥" //ur theme emoji
+global.packname = "BOT KING" //ur sticker watermark packname
+global.author = "BOT KING" //ur sticker watermark author
+global.wm = "© 𝗕𝗢𝗧 𝗞𝗜𝗡𝗚 " //ur watermark
 
 // Other
 global.sessionName = 'session'
